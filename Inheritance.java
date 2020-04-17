@@ -1,19 +1,16 @@
 class A{
     public void Car(){
-        System.out.println("audi car");
+        Systut.println("audi car");
     }
 }
-class B extends A{
-    public void bike(){
-        System.out.println("R15");
+class B exd bike(){
+        System.oprintln("R15");
     }
     
-            
-}
+           
 public class Inheritance{
-    public static void main(String[] args) {
-        B ob=new B();
-        ob.Car();
+  lic static void main(String[] args) {
+        B ob=new B(
         ob.bike();
     }
 }
